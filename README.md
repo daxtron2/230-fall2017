@@ -1,3 +1,4 @@
+skip
 # IGME-230 Web Design &amp; Implementation, Fall 2017: Syllabus
 
 ## Instructor and Class Details
